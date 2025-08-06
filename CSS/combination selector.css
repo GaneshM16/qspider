@@ -1,0 +1,23 @@
+.outer >h2{
+    color: blueviolet;
+}
+#nav h1{
+    color: red;
+   
+}
+#nav >h1{
+ border-style:solid;
+}
+.outer{
+    height: 500px;
+    width:750px;
+    background-color: brown;
+    
+}
+#inner{
+    height: 250px;
+    width: 500px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    margin-top: 50px;
+}
